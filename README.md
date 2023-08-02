@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ToDoList-React
 =======
 # React + Vite
