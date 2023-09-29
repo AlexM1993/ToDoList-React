@@ -15,8 +15,6 @@
 //   );
 // }
 
-// export default ToDoItem;
-
 function ToDoItem({ todo, remove }) {
   const removeToDo = () => {
     remove(todo.id);
